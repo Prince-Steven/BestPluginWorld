@@ -34,6 +34,6 @@ public final class Events extends JavaPlugin implements Listener {
 
     @EventHandler
     public void onDeath2(PlayerDeathEvent event){
-        event.setDeathMessage(Color.format("Psofaa poutsooopaido!!&4&l&kiiiiiiii"));
+        event.setDeathMessage(Color.format("Psofaa poutsooopaido!!!&4&l&kiiiiiiii"));
     }
 }
