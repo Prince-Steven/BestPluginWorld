@@ -1,0 +1,5 @@
+name: Events
+version: ${project.version}
+main: me.yangwenli.events.Events
+authors: [ YangWenli ]
+description: Second Episode
